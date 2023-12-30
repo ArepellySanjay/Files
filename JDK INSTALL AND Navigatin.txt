@@ -1,0 +1,43 @@
+
+JDK INSTALLITION AND NAVIGATION----
+
+oracle login password--SaN1@sanju
+
+>install JDK 11 version
+>click--YES
+>click--NEXT
+>click--NEXT
+>click--CLOSE
+---------------------------
+Goto This -- PC
+>right click on this pc
+>click on PROPERTICE
+> IN DEVICE SPECIFICATION
+>click on advaced setting
+>click on ENVIROLMENT VARIBLE
+> IN SYSTEM VARIBLE
+>click on NEW--edit name`
+>VARIABLE NAME --JAVA-HOME
+>click on BROWSER
+>select C-DRIVE
+>click on programee file
+>click on JAVA
+>JDK-11
+>click on OK
+>click on PATH
+>click on EDIT
+>click on BROWSER
+>GO TO C-DRIVE
+>click on programee file
+>click on JAVA
+>select on JDK 11
+>select BIN
+>click OK
+>clock OK
+>click OK
+>click OK
+----------------------------------
+GO TO COMMAND PROMPT
+>type JAVA -version
+>sucessfully installed
+
