@@ -1,0 +1,20 @@
+INSTALL APPACHE-POI-1.42
+
+GOTO GOOGLE-SEARCH ----DOWNLOAD APPACHE-PAI
+>click the first link
+>click the first link
+>the latest version--5.2.3
+  ----but always using higher version litill-risk
+>GO Down
+>click BINARY ARTIFACTS
+>Download APPACHE-1.12 ZIP
+-------------------------------------
+>GO TO DOWNLOAD
+>poi-4.1.2 EXTRACT to C-DRIVE
+-------------------------------------
+REQURIED--JARS
+1>TestNG
+2>slf4j-api-1.7.2.jar
+3>selenium--3.141.59
+4>Appache-poi--412
+5>chromedriver.exe
