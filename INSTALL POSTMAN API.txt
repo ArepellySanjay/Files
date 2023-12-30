@@ -1,0 +1,80 @@
+INSTALLIZATION---POSTMAN
+
+GOTO GOOGLE SEARCH---POSTMAN DOWNLOAD
+>click on WINDOW 64-BIT
+>double click on--POSTMAN ICON
+>click on create account
+>ENTER Emai:arepellisanjay2241@gmail.com
+>Password:Sanjay123!@#
+>click on create account
+
+GET:https:|//reqres.in/api|/users?|page=2|
+          |  Host,domain  |  path |quarry|
+                           paramer  paramer
+
+
+
+
+Creating our own API
+
+step1> NodeJS----dowmload
+        NPM----node package mangement
+
+step2>Json-server----Install
+
+
+
+-------INSTALL NodeJs------------
+
+GO TO Google search--download NodeJs
+>download  window installer
+>double click on NodeJs
+>Accept All Next Button
+>click on INSTALL
+>NodeJS has been installed succefully
+>click on next button
+--------------------------------------
+
+--------Creating PATH-------------
+>click on MY PC
+>click on system setting
+>click on ENVIROLMENT VARIABLE
+>----IN SYSTEM VARIBLE--------
+>click on path
+>click on edit button
+>click on c:\programee files\Nodejs
+>click on OK
+-------------------------------------
+-----cross check-----------
+>click on cammond prompt
+>ENTER: NodeJS --version
+V20.10.0 current version
+
+-----cross check------------
+Enter: NPM --version
+10.2.3 current version
+
+------cross check------------
+Enter: npm --g json-server
+    --- it will take some time
+
+-------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
