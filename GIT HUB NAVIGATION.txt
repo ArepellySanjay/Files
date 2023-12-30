@@ -1,0 +1,61 @@
+Git Hub Navigation
+
+>Creating token in Git hub
+>Login into Git Hub : github.com
+
+
+>Go to user profile
+>click on setting
+>scrool down
+>click on developer setting 
+>click on personal access token
+>select token (classic)
+>click on generate NEW TOKEN
+>click on new Token (classic)
+
+
+-------Create Repository in git hub---------------
+>Go to user Profile
+>click on your repository
+>click on NEW 
+>Give Repository Name : TestNG Frame Work
+>Select public
+>click on create repository
+>copy this URL: Quick Under
+
+
+-------Create Repository in Eclips----------------
+>select the project 
+>right click on project
+>click on Team
+>click on Share project
+>Select your local Repository : paste the path
+>select location
+>click finish
+
+
+------Moving Unstage to Stage-------------------
+
+>Right click on your project
+>click team
+>seect commit
+>Give commit Message : FIRST COMMIT
+>click commit and push
+>LOGIN
+>User : xyz
+>password : TOKEN
+>click on ligin
+>click on close
+>GO to git hub repository and refresh
+
+
+
+
+
+
+
+
+
+
+
+
