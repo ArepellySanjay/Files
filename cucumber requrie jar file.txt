@@ -1,0 +1,53 @@
+dependencies requride cucumber frame work
+------------------------------------------------------------------
+1.selenium----3.141.59
+2.TestNG---6.14.3 
+Junit----4.12
+3.Cucumber java--1.2.5
+4.Cucumber TestNG--1.2.5
+/cucumber Juint--1.2.5
+5.Extends reports--3.1.0
+6.cucumber extends reports---3.1.0
+7.chromedriver.exe
+
+
+---------------------------------------------------------
+step1.createing feature files
+
+    for each feature to be tested we have to create a separete
+ fil,where we document testcases and teststeps in simple 
+  in english using GHERKIN language keywords
+
+
+-----------------------------------------------------------------
+step 2 .creating step definition
+
+
+  for each step present in the feature file,create approprite function
+ and all these function krrp in a library class each funtion should be 
+ associated with coressponding step name
+ 
+  for ex:
+         
+        @Given("i open the broswer with url")
+        public void  lanchApp()
+         {
+           staments;
+         }
+
+-----------------------------------------------------------------------------------------
+step 3. createing the TestRunners
+
+    create Testcase classes using various cucumber option. these Testcase classes we can
+   Runwith   Junit/TestNG
+ 
+
+@RunWith(Cucumber.class)
+@CucumberOptions(features = "featurefile/adminlogin.feature",glue = "Stepdefinition",dryRun = false,monochrome = true,
+plugin = {"com.cucumber.listener.ExtentCucumberFormatter:reports/adminlogin.html"})
+public class adminlogin 
+{
+	
+}
+
+
